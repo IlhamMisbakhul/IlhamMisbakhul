@@ -1,6 +1,6 @@
 <h1 align="center">Hi everyone, I'm Muhammad Ilham Misbakhul Anwar</h1>
 <h3 align="center">An ambitious mobile developer, frontend developer and backend developer from Indonesia</h3>
-<img align="right" alt="Coding" width=" 400" scr="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
+(img align="right" alt="Coding" width=" 400" scr="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif")
 
 - 💬 Ask me about **java, flutter, html and css**
 
