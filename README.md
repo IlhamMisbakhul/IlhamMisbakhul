@@ -24,3 +24,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ilhammisbakhul&show_icons=true&locale=en" alt="ilhammisbakhul" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ilhammisbakhul&" alt="ilhammisbakhul" /></p>
+
+<h3 align="left">Educations:</h3>
+<a>1. </a><a align="left" href="https://unindra.ac.id/">University of Indraprasta PGRI</a> <a> | Informatics Engineering | 2021 - 2025</a>
+<br>
+<a>2. </a><a align="left" href="https://smkn51jakarta.sch.id/">51 Vocational High School Jakarta</a> <a> | Multimedia | 2018 - 2021</a>
