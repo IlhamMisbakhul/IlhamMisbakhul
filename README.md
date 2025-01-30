@@ -3,7 +3,7 @@
 <h3 align="center">An Ambitious Mobile Developer from Indonesia</h3>
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
-- 💬 Ask me about **Java, Flutter, Html and Css**
+- 💬 Ask me about **Java, Flutter, Html and CSS**
 
 - 📫 How to reach me **ilhammisbakhul123@gmail.com**
 
